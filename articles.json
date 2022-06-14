@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "62a852762b0938a5df79f2e1"
+  },
+  "title": "REST",
+  "content": "REST is short for REpresentational State Transfer. It's an achitectur style for designing APIs."
+},{
+  "_id": {
+    "$oid": "62a853a82b0938a5df79f2e6"
+  },
+  "title": "API",
+  "content": "API stands for Application Programming Interface. It is a set of subroutine definitions, communication protocols, and tools for building software. In general terms, it is a set of clearly defined methods of communication among various components. A good API makes it easier to develop a computer program by providing all the building blocks, which are then put together by the programmer."
+},{
+  "_id": {
+    "$oid": "62a854182b0938a5df79f2e7"
+  },
+  "title": "Bootstrap",
+  "content": "This is a framework developed by Twitter that contains pre-made front-end templates for web design"
+},{
+  "_id": {
+    "$oid": "5c1398ecd79ac8eac11e7567"
+  },
+  "title": "DOM",
+  "content": "The Document Object Model is like an API for interacting with our HTML"
+},{
+  "_id": {
+    "$oid": "62a85f9b1f66f6ca29887f46"
+  },
+  "title": "jack Bauer",
+  "content": "Jack Bauer once stepped into quicksand. The quicksand couldn't escape and nearly drowned."
+}]
